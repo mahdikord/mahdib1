@@ -240,7 +240,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {79982358},--Sudo users
+    sudo_users = {165562299},--Sudo users
     disabled_channels = {},
     realm = {realm_id},--Realms Id
     moderation = {data = 'data/moderation.json'},
